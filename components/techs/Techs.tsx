@@ -9,9 +9,8 @@ const Techs = () => {
       <div className="relative">
         <div className="flex flex-col items-center justify-center gap-8 rounded-lg bg-none ">
           <p className="regular-paragraph z-10 max-w-[850px] md:text-center">
-            Building effective and innovative solutions requires the right
-            technologies. I leverage a carefully selected set of modern tools
-            and frameworks to bring these solutions to life, including:
+            I stay up to date with the latest technologies and trends, to be able to delivery
+            fast, while building performant and reliable solutions.
           </p>
 
           <div className="flex flex-wrap gap-x-3 gap-y-2 md:max-w-[600px] md:items-center md:justify-center ">

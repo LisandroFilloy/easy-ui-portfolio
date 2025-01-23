@@ -20,7 +20,7 @@ type Props = {
 const ContactCard = ({ title, icon, description, path }: Props) => {
   return (
     <Link href={path} target="_blank">
-      <Card className="border-none bg-background shadow-2xl transition-all hover:-translate-y-1.5 hover:bg-[#1a1a1a4d] ">
+      <Card className="border-none bg-[#3e3e3e] shadow-2xl transition-all hover:-translate-y-1.5 hover:bg-[#1a1a1a4d] ">
         <CardHeader className="pb-2">
           <CardTitle>
             <Image src={icon} alt={title} width={60} height={60} />

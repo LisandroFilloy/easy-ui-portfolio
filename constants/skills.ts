@@ -94,46 +94,21 @@ export const techs = [
     textColor: '#61DAFB', // Brighter light blue
     bgColor: '#4B9FC9', // Darker blue
   },
-  // {
-  //   label: 'redux',
-  //   textColor: '#3168C6', // Brighter blue
-  //   bgColor: '#1E4D92', // Darker blue
-  // },
-  // {
-  //   label: 'tanstack',
-  //   textColor: '#3178f6', // Brighter blue
-  //   bgColor: '#1E5Df2', // Darker blue
-  // },
   {
     label: 'css',
     textColor: '#38BDF8', // Brighter cyan
     bgColor: '#0D8FB7', // Darker cyan
   },
-  // {
-  //   label: 'sass',
-  //   textColor: '#38BDF8', // Brighter cyan
-  //   bgColor: '#0D8FB7', // Darker cyan
-  // },
   {
     label: 'tailwind css',
     textColor: '#38BDF8', // Brighter cyan
     bgColor: '#4E8B4A', // Darker cyan
   },
-  // {
-  //   label: 'styled-components',
-  //   textColor: '#DB7093', // Brighter pink
-  //   bgColor: '#9B4F6C', // Darker pink
-  // },
   {
     label: 'docker',
     textColor: '#DB7093', // Brighter pink
     bgColor: '#4E8B4A', // Darker pink
   },
-  // {
-  //   label: 'rollup',
-  //   textColor: '#DB7093', // Brighter pink
-  //   bgColor: '#9B4F6C', // Darker pink
-  // },
   {
     label: 'node.js',
     textColor: '#68A063', // Brighter green
@@ -149,16 +124,6 @@ export const techs = [
     textColor: '#000000', // Bright black (neutral)
     bgColor: '#4E8B4A', // Darker black (neutral)
   },
-  // {
-  //   label: 'jest',
-  //   textColor: '#C03C44', // Brighter red
-  //   bgColor: '#9A1F28', // Darker red
-  // },
-  // {
-  //   label: 'vitest',
-  //   textColor: '#6A3B97', // Brighter purple
-  //   bgColor: '#4E2C6C', // Darker purple
-  // },
   {
     label: 'python',
     textColor: '#C03C44', // Brighter red
@@ -190,7 +155,7 @@ export const techs = [
     bgColor: '#4E2C6C', // Darker purple
   },
   {
-    label: 'nx',
+    label: 'supabase',
     textColor: '#6A3B97', // Brighter purple
     bgColor: '#4E2C6C', // Darker purple
   },

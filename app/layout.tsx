@@ -4,7 +4,6 @@ import { Inter, Silkscreen } from 'next/font/google';
 
 import './globals.css';
 import NavBar from '@/components/layout/NavBar';
-import Footer from '@/components/layout/Footer';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -76,7 +75,6 @@ export default function RootLayout({
       <body className={`${inter.variable} ${silkscreen.variable} relative`}>
         <NavBar />
         <main>{children}</main>
-        <Footer />
         <div className="main-mask pointer-events-none absolute inset-0 -z-50" />
       </body>
     </html>
