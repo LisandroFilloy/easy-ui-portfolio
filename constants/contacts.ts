@@ -1,17 +1,17 @@
 export const contacts = [
-  // {
-  //   id: 'linkedin',
-  //   title: 'LinkedIn',
-  //   icon: '/linkedin.svg',
-  //   description: "Let's connect and explore opportunities together.",
-  //   path: 'https://www.linkedin.com/in/lisandro-filloy/',
-  // },
   {
     id: 'email',
     title: 'Email',
     icon: '/email.svg',
     description: 'Feel free to reach out to me directly via email.',
     path: 'mailto:lisandrofilloy@gmail.com',
+  },
+  {
+    id: 'resume',
+    title: 'Resume',
+    icon: '/email.svg',
+    description: 'Check out my resume in PDF format.',
+    path: 'https://drive.google.com/file/d/1bDTRBy1Ygt-XsakhSvxnKeUc0pSXuszs/view?usp=sharing',
   },
 ];
 
